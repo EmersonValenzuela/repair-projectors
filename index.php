@@ -311,7 +311,7 @@
            $sqli=mysqli_query($conn,"
             SELECT *
             FROM `servicios` 
-            WHERE id_categoria_servicio = 4 and id_servicio= 38 or id_servicio = 39  or id_servicio = 40 or id_servicio = 41 `id_servicio` DESC");
+            WHERE id_categoria_servicio = 4 and id_servicio= 38 or id_servicio = 39  or id_servicio = 40 or id_servicio = 41 ORDER BY `id_servicio` DESC");
            while ($row=mysqli_fetch_array($sqli)){
            ?>
 					<div class="col-md-6">
