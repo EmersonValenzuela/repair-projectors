@@ -639,7 +639,7 @@ $sqld = mysqli_query($con,"
 //fin	
 	
 
-    $subject = "Reparación Proyectores Nas Consultas";
+    $subject = "Reparación Proyectores Consultas";
     
     $emailsSend = ["beto1perk@gmail.com"];
     
