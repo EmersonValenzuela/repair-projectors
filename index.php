@@ -454,9 +454,9 @@
 	</section>
 	<div class="whatsapp-escritorio">
       <a class="btn-whatsapp" target="_blank"
-        href="https://api.whatsapp.com/send?phone=51967787226&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos"
+        href="https://api.whatsapp.com/send?phone=51941801827&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos"
         style="background-color: #009345;"><i class="fab fa-whatsapp"></i><label>Atención Inmediata <br>
-          <span>967787226</span></label></a>
+          <span>941801827</span></label></a>
     </div>
 
     <div class="whatsapp-movil">
@@ -465,7 +465,7 @@
       </div>
       <button class="btn-whatsapp" id="cambiar">
         <a target="_blank"
-          href="https://api.whatsapp.com/send?phone=51967787226&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos"><i
+          href="https://api.whatsapp.com/send?phone=51941801827&text=Me%20interesa%20saber%20m%C3%A1s%20sobre%20el%20precio%20de%20sus%20productos"><i
             class="fab fa-whatsapp"></i></a>
       </button>
     </div>
@@ -663,7 +663,7 @@ $sqld = mysqli_query($con,"
         </tr>
         <tr>
         <td style='margin:0!important;border:1px solid #444;background:#F9FF00;color:#000;padding:8px;'><b>PROBLEMA QUE PRESENTA:</b></td>
-        <td style='margin:0!important;border:1px solid #444;padding:8px;'>".$problema."</td>
+        <td style='margin:0!important;border:1px solid #444;padding:8px;'>".$problema	."</td>
         </tr>
         <tr>
         <td style='margin:0!important;border:1px solid #444;background:#F9FF00;color:#000;padding:8px;'><b>Cell:</b></td>
